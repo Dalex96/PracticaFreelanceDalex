@@ -1,6 +1,6 @@
-# encuesta
+# Pagina Freelance Practicas
 
-> sistema de encuestas 2017 
+> Web Freelance 2017 
 
 ## Build Setup
 
